@@ -13,8 +13,6 @@
 <div align="center">
 ---
 
-## // stack
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d2137?style=flat&logo=python&logoColor=79c0ff)
