@@ -8,7 +8,7 @@
 
 **Full Stack Developer · AI & Data · Agadir, Morocco 🇲🇦**
 
-![Open to work](https://img.shields.io/badge/🟢_Open_to_work-238636?style=flat&labelColor=238636)
+![Open to work](https://img.shields.io/badge/🟢_Open_to_work-238636?style=flat)
 ![Full Stack](https://img.shields.io/badge/Full_Stack-1f6feb?style=flat)
 ![AI/Data](https://img.shields.io/badge/AI_%2F_Data-6e40c9?style=flat)
 ![Docker](https://img.shields.io/badge/Docker·CI%2FCD-0d2137?style=flat)
@@ -74,7 +74,6 @@ const chaima = {
 <div align="center">
 
 ![Chaima's stats](https://github-readme-stats.vercel.app/api?username=chaimoma&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimoma&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
@@ -82,5 +81,5 @@ const chaima = {
 ---
 
 <div align="center">
-  <sub>📱 (+212) 0718709859 · 📍 Agadir · 💼 open to opportunities</sub>
+<sub>📱 (+212) 0718709859 · 📍 Agadir · 💼 open to opportunities</sub>
 </div>
