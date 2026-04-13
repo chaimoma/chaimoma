@@ -74,12 +74,6 @@ FR ↔ EN translation app with JWT auth, protected backend, fully dockerized.
 
 ---
 
-## 📊 GitHub Stats
-
-![Chaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaimoma&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 ## 📫 Let's connect
 
 - 📱 (+212) 0718709859
@@ -87,4 +81,3 @@ FR ↔ EN translation app with JWT auth, protected backend, fully dockerized.
 - 💼 Open to first job & internship opportunities in AI / Full Stack
 
 ---
-*Made with ❤️ from Agadir 🇲🇦*
